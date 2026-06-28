@@ -22,7 +22,7 @@ Akun (data dummy otomatis tersedia di database, lihat database.py / README.md):
 -------------------------------------------------------------------
 """
 
-import customtkinter as ctk
+import streamlit as st
 
 import database as db
 import theme
