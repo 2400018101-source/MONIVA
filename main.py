@@ -274,7 +274,6 @@ def halaman_login():
         <div style='background:#352720;border-radius:8px;padding:10px 14px;margin-top:8px;'>
         <span style='color:#A1887F;font-size:12px;'>
         Daftar username &amp; password ada di README.md<br>
-        Contoh: <b>davahaidar</b> / <b>1933</b> (Pemilik)
         </span>
         </div>
         """, unsafe_allow_html=True)
