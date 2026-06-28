@@ -374,7 +374,6 @@ def halaman_login():
         st.markdown("""
         <div style='background:#352720;border-radius:8px;padding:10px 14px;margin-top:12px;'>
             <p style='color:#A1887F;font-size:12px;margin:0;'>
-            Contoh akun: <b style='color:#FFF3E0;'>davahaidar</b> / <b style='color:#FFF3E0;'>1933</b> (Pemilik)<br>
             Lihat README.md untuk daftar lengkap.
             </p>
         </div>
