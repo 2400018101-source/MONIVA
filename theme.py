@@ -9,7 +9,7 @@ hangat, energik, dan premium — sesuai identitas bisnis kuliner
 -------------------------------------------------------------------
 """
 
-import customtkinter as ctk
+#import customtkinter as ctk
 
 # =====================================================================
 # PALET WARNA UTAMA
